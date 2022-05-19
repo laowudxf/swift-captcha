@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "swiftgd",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/laowudxf/SwiftGD.git",
+      "state" : {
+        "revision" : "499da4a1618f4dce7fbec871ad926ea6880b0673",
+        "version" : "2.5.1"
+      }
+    }
+  ],
+  "version" : 2
+}
